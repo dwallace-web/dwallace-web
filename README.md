@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 :computer:	In my spare time, I'm coding in React, Javascript, SQL & Python.
 
-:chart_with_upwards_trend:	Currently, I'm a measurement solutions specialist at [Liveramp](https://liveramp.com/data-plus-math/).
+:chart_with_upwards_trend:	I enjoy staying fit and strength training.
 
 :red_circle: My project portfolio is [here](https://dwallace-web.github.io/) - feedback is appreciated. 
 
