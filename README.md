@@ -15,12 +15,10 @@ Here are some ideas to get you started:
 
 # Hello, I'm Dave! :wave:
 
-:desktop_computer: I am a bootcamp graduate from the Full Stack Web Development program at [Eleven-50 Academy](https://elevenfifty.org/).
+:computer: The main languaes I program with are javascript, python and sql. I use a few frameworks in these languages like NodeJS, React, Jupyter, Typescript, etc.
 
-:computer:	In my spare time, I'm coding in React, Javascript, SQL & Python.
+:chart_with_upwards_trend:	Growth Mindset - I enjoy staying fit through HIIT workouts and strength training.
 
-:chart_with_upwards_trend:	I enjoy staying fit and strength training.
+:red_circle: My project portfolio is [here](https://dwallace-web.github.io/) - feedback is welcome. 
 
-:red_circle: My project portfolio is [here](https://dwallace-web.github.io/) - feedback is appreciated. 
-
-Please reach out to me on [LinkedIn.com](https://www.linkedin.com/in/dwallacemarketing/).
+Contact me through [LinkedIn.com](https://www.linkedin.com/in/dwallacemarketing/).
