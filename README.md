@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hello, I'm Dave! :wave:
 
-:computer: The main languaes I program with are javascript, python and sql. I use a few frameworks in these languages like NodeJS, React, Jupyter, Typescript, etc.
+:computer: The main languages I program with are javascript, python and sql. I use a few frameworks in these languages like NodeJS, React, Jupyter, Typescript, etc.
 
 :chart_with_upwards_trend:	Growth Mindset - I enjoy staying fit through HIIT workouts and strength training.
 
